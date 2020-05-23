@@ -1,0 +1,17 @@
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Release\netcoreapp3.1\NumberFactBot.exe
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Release\netcoreapp3.1\Settings.job
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Release\netcoreapp3.1\NumberFactBot.deps.json
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Release\netcoreapp3.1\NumberFactBot.runtimeconfig.json
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Release\netcoreapp3.1\NumberFactBot.runtimeconfig.dev.json
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Release\netcoreapp3.1\NumberFactBot.dll
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Release\netcoreapp3.1\NumberFactBot.pdb
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Release\netcoreapp3.1\Telegram.Bot.dll
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Release\netcoreapp3.1\NumberFactBot.csprojAssemblyReference.cache
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Release\netcoreapp3.1\NumberFactBot.csproj.CoreCompileInputs.cache
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Release\netcoreapp3.1\NumberFactBot.AssemblyInfoInputs.cache
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Release\netcoreapp3.1\NumberFactBot.AssemblyInfo.cs
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Release\netcoreapp3.1\NumberFactBot.csproj.CopyComplete
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Release\netcoreapp3.1\NumberFactBot.dll
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Release\netcoreapp3.1\NumberFactBot.pdb
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Release\netcoreapp3.1\NumberFactBot.genruntimeconfig.cache

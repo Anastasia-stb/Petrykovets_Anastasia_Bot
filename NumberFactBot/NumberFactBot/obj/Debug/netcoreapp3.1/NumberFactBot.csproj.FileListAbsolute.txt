@@ -1,0 +1,62 @@
+D:\visual studio проекты\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.exe
+D:\visual studio проекты\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csprojAssemblyReference.cache
+D:\visual studio проекты\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.AssemblyInfoInputs.cache
+D:\visual studio проекты\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.AssemblyInfo.cs
+D:\visual studio проекты\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.deps.json
+D:\visual studio проекты\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.runtimeconfig.json
+D:\visual studio проекты\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.runtimeconfig.dev.json
+D:\visual studio проекты\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.dll
+D:\visual studio проекты\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.pdb
+D:\visual studio проекты\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\visual studio проекты\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\visual studio проекты\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csproj.CopyComplete
+D:\visual studio проекты\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.dll
+D:\visual studio проекты\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.pdb
+D:\visual studio проекты\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.genruntimeconfig.cache
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.exe
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.deps.json
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.runtimeconfig.json
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.runtimeconfig.dev.json
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.dll
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.pdb
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Курсова робота\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csprojAssemblyReference.cache
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csproj.CoreCompileInputs.cache
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.AssemblyInfoInputs.cache
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.AssemblyInfo.cs
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csproj.CopyComplete
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.dll
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.pdb
+D:\Курсова робота\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.genruntimeconfig.cache
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.exe
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.deps.json
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.runtimeconfig.json
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.runtimeconfig.dev.json
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.dll
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.pdb
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.AssemblyInfo.cs
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csproj.CopyComplete
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.dll
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.pdb
+C:\Users\Денис\Desktop\НАСТИНБОТ\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.genruntimeconfig.cache
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.dll
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.pdb
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.exe
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.deps.json
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.runtimeconfig.json
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.runtimeconfig.dev.json
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.dll
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\NumberFactBot.pdb
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csprojAssemblyReference.cache
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csproj.CoreCompileInputs.cache
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.AssemblyInfoInputs.cache
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.AssemblyInfo.cs
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.csproj.CopyComplete
+C:\Users\Анастасія\Downloads\Telegram Desktop\Архив ZIP - WinRAR (4) (2)\NumberFactBot\NumberFactBot\obj\Debug\netcoreapp3.1\NumberFactBot.genruntimeconfig.cache
